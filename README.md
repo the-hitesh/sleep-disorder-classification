@@ -90,9 +90,7 @@ You can upload the notebook file and the csv file to Google Collab and run it fr
 
 SleepPatternProject/
 │
-├── data/
 ├── notebook/
-├── app/
 ├── requirements.txt
 └── README.md
 
