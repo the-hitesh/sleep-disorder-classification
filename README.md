@@ -26,17 +26,24 @@ cd SleepPatternProject
 
 ### 2. Create Virtual Environment (Recommended)
 
+#### For Linux/Mac:
+```
 python3 -m venv sleep_env
-source sleep_env/bin/activate   # Linux/Mac
+source sleep_env/bin/activate
+```
 
-# For Windows:
+#### For Windows:
+```
+python3 -m venv sleep_env
 sleep_env\Scripts\activate
-
+```
 ---
 
 ### 3. Install Required Libraries
 
+```
 pip install -r requirements.txt
+```
 
 ---
 
@@ -44,7 +51,9 @@ pip install -r requirements.txt
 
 ### 4. Start Jupyter Notebook
 
+```
 jupyter notebook
+```
 
 This will open a browser.
 
